@@ -1,8 +1,5 @@
 # PhoenixExrethinkdbChat
 
-To start your new Phoenix application:
+This is a very simple chat app in elixir with Phoenix and RethinkDB.
 
-1. Install dependencies with `mix deps.get`
-2. Start Phoenix endpoint with `mix phoenix.server`
-
-Now you can visit `localhost:4000` from your browser.
+There is an accompanying blog post at <http://manukall.de/2015/04/25/building-a-simple-chat-app-in-elixir-with-phoenix-and-rethinkdb/>.
