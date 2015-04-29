@@ -30,7 +30,8 @@ defmodule PhoenixExrethinkdbChat.Mixfile do
   defp deps do
     [{:phoenix, "~> 0.11"},
      {:phoenix_live_reload, "~> 0.3"},
-     {:exrethinkdb, github: "hamiltop/exrethinkdb"},
+     {:exrethinkdb, github: "hamiltop/exrethinkdb", ref: "55fb5b5ed892f28b7ae8ee1b2f8e54fb651bd611"},
      {:cowboy, "~> 1.0"}]
   end
+
 end
